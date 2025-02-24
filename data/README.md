@@ -23,8 +23,7 @@ This dataset contains medical records of **768 patients** from the Pima Indian p
 
 ## 📥 Dataset Source
 - 📌 [Kaggle](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
-- 📌 [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/pima+indians+diabetes)
-
+  
 This dataset is commonly used for **classification problems** in machine learning.
 
 ---
