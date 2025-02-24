@@ -16,5 +16,6 @@ The notebook includes:
 
 ## 🔧 Installation & Usage
 To run this notebook, ensure you have the following installed:
-- ```bash
-- pip install numpy pandas scikit-learn matplotlib seaborn
+
+ ```bash
+pip install numpy pandas scikit-learn matplotlib seaborn
