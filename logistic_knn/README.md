@@ -8,6 +8,7 @@ The notebook includes:
 - Implementation of **Logistic Regression** and **KNN**
 - Model evaluation using accuracy, precision, recall, and F1-score
 - Hyperparameter tuning for **KNN**
+- **Comparison of model performance** using different **train-test splits** (70/30 and 60/40)
 
 ## 📂 Files
 - `Grace_logistic_KNN.ipynb`
